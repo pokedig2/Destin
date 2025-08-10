@@ -51,4 +51,4 @@ My goal is to transition into a **software engineering** role, applying my skill
 
 ---
 
-> *"Technology should empower people — my mission is to build software that makes that happen."*
+> *"There is no tommorow. -Apollo Creed"*
