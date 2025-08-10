@@ -1,11 +1,54 @@
-# Destin Byrd
-I recently graduated from California State University, Long Beach, with a Bachelor of Science in Computer Science. I have over six years of programming experience, with expertise in Python, Java, C++, C#, and Dart. My work focuses on building reliable and high-performance software solutions, including APIs, microservices, and automation tools.
+# 👋 Hi, I’m Destin Byrd
 
-Some of my most notable projects include:
+I’m an **IT Specialist** with 1.5 years of professional experience supporting enterprise systems at the U.S. Department of the Treasury.  
+I hold a **B.S. in Computer Science** from CSU Long Beach and will begin my **M.S. in Computer Science (Machine Learning/AI)** at Georgia Tech in Fall 2025.  
+My goal is to transition into a **software engineering** role, applying my skills in **full-stack development**, **cloud computing**, and **AI/ML**.
 
-    Chibi Clicker: A mobile game developed with C# and Firebase, integrating cloud-based storage and ad revenue optimization. (GitHub)
-    Secure File Sharing Platform: A senior project developed using Dart and JavaScript, with RESTful APIs enabling secure, real-time data transfer. (GitHub)
-    Red Hat Python Project: Tools created to solve cryptography problems and defend against malware threats using Python libraries. (GitHub)
-    Social Media Integration App: An Android application using Flutter and Dart that streamlined social media posting across multiple platforms by integrating various APIs.
+---
 
-I am passionate about leveraging cutting-edge technologies like AWS and cloud architecture to solve challenging problems and deliver impactful solutions. My work emphasizes security, automation, and optimization to improve user experiences.
+## 📊 Badges & Stats
+![GitHub followers](https://img.shields.io/github/followers/destinbyrd?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/destinbyrd?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/destin-byrd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=google-chrome)](https://destinbyrd.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:destin.byrd@outlook.com)
+
+---
+
+## 🔹 About Me
+- 💻 **Current Role**: IT Specialist @ U.S. Department of the Treasury  
+- 🎓 **Education**:  
+  - B.S. in Computer Science – CSU Long Beach (2023)  
+  - M.S. in Computer Science (ML/AI Specialization) – Georgia Tech (2025–2027)  
+- 🌎 **Location**: California, USA  
+- 📈 Actively building **personal projects** to strengthen my software engineering portfolio  
+- 🎯 Career Goal: Junior Software Engineer / AI-Driven Full-Stack Developer
+
+---
+
+## 🔹 Technical Skills
+**Languages:** JavaScript (React, Node.js, Express), Python, C++, C, C#, Java, SQL, NoSQL  
+**Tools & Platforms:** Git, Docker, ServiceNow, Active Directory, VMware, REST APIs  
+**Databases:** MySQL, SQLite, MongoDB  
+**Other:** Linux/Windows system administration, Networking, Cloud fundamentals
+
+---
+
+## 🔹 Featured Projects
+- **Eternity App** – Full-stack matching application using **React**, **Express.js**, and **MySQL**  
+- **Secure File Sharing Platform** – Built with Dart & SQL for encrypted file distribution  
+- **Chibi Clicker Game** – Integrated **Firebase** + SQL for persistent gameplay data  
+- **Red Hat Web Tools** – Developed custom tools to improve Linux administration workflows
+
+*(See pinned repositories below for more details.)*
+
+---
+
+## 🔹 Connect With Me
+📧 **Email**: [destin.byrd@outlook.com](mailto:destin.byrd@outlook.com)  
+💼 **LinkedIn**: [linkedin.com/in/destin-byrd](https://www.linkedin.com/in/destin-byrd)  
+🌐 **Portfolio**: [destinbyrd.com](https://destinbyrd.com)
+
+---
+
+> *"Technology should empower people — my mission is to build software that makes that happen."*
